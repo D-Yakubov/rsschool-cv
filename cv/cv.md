@@ -5,5 +5,5 @@
 5. print("Hello, World!)
 6. Experience: Several personal projects and now supporting and working on ERP system of a manufactoring company.
 7. Education: TUIT and Online courses/self studying.
-8. English level: Probably elementary or low Intermediate
+8. English level: Probably elementary or low Intermediate.
 
